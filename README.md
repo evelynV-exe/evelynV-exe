@@ -8,5 +8,5 @@ My name is Evelyn, a **first year student in Computer Engineering** at Rajamanga
    Currently I'm studying cryptography and practicing CTFs often.
    I want to be better everyday!
 ___________________________________________________________________________________________________
-![CyberDefenders Badge](https://cyberdefenders.org/p/Christian_X/badge.svg)
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Christian_X.png" width="300" />
 ___________________________________________________________________________________________________
