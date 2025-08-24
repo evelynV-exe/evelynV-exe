@@ -9,7 +9,7 @@ My name is Evelyn, a **first year student in Computer Engineering** at Rajamanga
    I want to be better everyday!
 
 ___________________________________________________________________________________________________
-<script src="https://cyberdefenders.org/p/Christian_X/badge"></script>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Christian_X.png" width="300" />
 ___________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
