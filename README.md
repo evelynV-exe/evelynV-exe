@@ -7,10 +7,8 @@ My name is Evelyn, a **first year student in Computer Engineering** at Rajamanga
 🌱 My interests are all about **cyber security** and willing to do anything to understand the process. 
    Currently I'm studying cryptography and practicing CTFs often.
    I want to be better everyday!
-```html
-<script src="https://cyberdefenders.org/p/Christian_X/badge"></script>
-```
 ___________________________________________________________________________________________________
+[![CyberDefenders Badge](https://cyberdefenders.org/p/Christian_X/badge.svg)](https://cyberdefenders.org/p/Christian_X)
 ___________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
