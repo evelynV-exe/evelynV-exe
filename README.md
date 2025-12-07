@@ -11,4 +11,4 @@ My name is Evelyn, a **first year student in Computer Engineering** at Rajamanga
 ## My badge(s):
 ___________________________________________________________________________________________________
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Christian_X.png" width="300" />
-URL:https://www.codewars.com/users/evelynV-exe/badges/small
+<svg width="100" height="100" xmlns="https://www.codewars.com/users/evelynV-exe/badges/small"></svg>
