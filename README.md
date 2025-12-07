@@ -10,7 +10,9 @@ My name is Evelyn, a **first year student in Computer Engineering** at Rajamanga
 
 ## My badge(s):
 ___________________________________________________________________________________________________
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Christian_X.png" width="300" />
+<a href="https://cyberdefenders.org/p/Christian_X">
+  <img src="https://cyberdefenders.org/static/img/logo.svg" alt="CyberDefenders Profile" width="120">
+</a>
 <a href="https://www.codewars.com/users/evelynV-exe">
   <img src="https://www.codewars.com/users/evelynV-exe/badges/small" alt="Codewars Badge">
 </a>
