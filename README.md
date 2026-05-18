@@ -1,18 +1,20 @@
-![85dfe641aeafd5a414af1cb3e5d132af](https://github.com/user-attachments/assets/569a37f3-ac34-4069-9cd3-f51e962f144b)
+# Hey, I'm Evelyn 👋
 
-## My Introduction:
+A student and coding enthusiast passionate about software development, problem solving, and learning new technologies. Currently exploring competitive programming, cybersecurity, and web development.
 
-My name is Evelyn, **Second year student in Computer Engineering** at Rajamangala University of Technology Lanna.
+## 🚀 What I'm Working On
+- Competitive programming
+- Cybersecurity research
+- Building small web projects
+- Formula one small projects
+- Improving problem-solving skills
 
-🌱 My interests are all about **cyber security** and willing to do anything to understand the process. 
-   Currently I'm studying cryptography and practicing CTFs often.
-   I want to be better everyday!
+## 🛠 Tools & Technologies
+- Python (prefer)
+- C++
+- HTML / CSS / JavaScript
+- Git & GitHub
 
-## My badge(s):
-___________________________________________________________________________________________________
-[CyberDefenders Profile](https://cyberdefenders.org/p/Christian_X)
-https://lab.lannasec.com/user/752768199900004352
-
-<a href="https://www.codewars.com/users/evelynV-exe">
-  <img src="https://www.codewars.com/users/evelynV-exe/badges/small" alt="Codewars Badge">
-</a>
+## 📫 Contact
+- Instagram: lostintwilightz0ne
+- Email: evechill007@gmail.com
