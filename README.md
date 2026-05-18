@@ -1,4 +1,4 @@
-# Hey, I'm Evelyn 👋
+# Hey, I'm Evelyn. Second year student @RMULT (Rajamangala University of Technology Lanna)
 
 A student and coding enthusiast passionate about software development, problem solving, and learning new technologies. Currently exploring competitive programming, cybersecurity, and web development.
 
