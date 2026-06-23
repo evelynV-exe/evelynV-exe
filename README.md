@@ -16,5 +16,5 @@
 - Git & GitHub
 
 ## 📫 Contact
-- Instagram: lostintwilightz0ne
+- Instagram: 0xevelyn.code
 - Email: asyncbyevelyn@gmail.com
