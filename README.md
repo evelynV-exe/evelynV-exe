@@ -1,20 +1,60 @@
-# Hey, I'm Evelyn. 
-<p align="center">Second year student @RMULT (Rajamangala University of Technology Lanna)</p>
-<p align="center">A student and coding enthusiast passionate about software development, problem solving, and learning new technologies. Currently exploring competitive programming, cybersecurity, and web development.</p>
+# Hey, I'm Evelyn 👋
 
-## 🚀 What I'm Working On
+```text
+┌─[evelyn@github]─[~/ctf]
+└──╼ $ whoami
+Computer Science Student
+CTF Player
+Python Developer
+```
+
+<p align="center">
+Second-year Computer Science student @ Rajamangala University of Technology Lanna
+</p>
+
+<p align="center">
+I enjoy solving challenging problems, building useful software, and exploring how systems work. My current interests include cybersecurity, reverse engineering, competitive programming, and web development.
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Playing CTFs
+- Learning reverse engineering & binary exploitation
 - Competitive programming
-- Cybersecurity research
-- Building small web projects
-- Formula one small projects
-- Improving problem-solving skills
+- Building small web applications
+- Formula 1 data & side projects
 
-## 🛠 Tools & Technologies
-- Python (prefer)
-- C++
-- HTML / CSS / JavaScript
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++ / C
+- JavaScript
+- HTML / CSS
+
+**Tools**
 - Git & GitHub
+- Linux
+- VS Code
+- Docker (learning)
+
+---
+
+## 📈 Currently Learning
+
+- Reverse Engineering
+- Pwntools
+- Linux Internals
+- Web Security
+- Algorithms & Data Structures
+
+---
 
 ## 📫 Contact
-- Instagram: 0xevelyn.code
-- Email: asyncbyevelyn@gmail.com
+
+- 📷 Instagram: `0xevelyn.code`
+- 📧 asyncbyevelyn@gmail.com
