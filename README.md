@@ -3,13 +3,13 @@
 ```text
 ┌─[evelyn@github]─[~/ctf]
 └──╼ $ whoami
-Computer Science Student
+Computer Engineering Student
 CTF Player
 Python Developer
 ```
 
 <p align="center">
-Second-year Computer Science student @ Rajamangala University of Technology Lanna
+Second-year Computer Engineering student @ Rajamangala University of Technology Lanna
 </p>
 
 <p align="center">
