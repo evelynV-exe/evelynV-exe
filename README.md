@@ -1,7 +1,7 @@
-# Hey, I'm Evelyn 👋
+# Hey, I'm Evelyn aka GhostPacket 👋
 
 ```text
-┌─[evelyn@github]─[~/ctf]
+┌─[GhostPacket@github]─[~/ctf]
 └──╼ $ whoami
 Computer Engineering Student
 CTF Player
@@ -40,21 +40,17 @@ I enjoy solving challenging problems, building useful software, and exploring ho
 - Git & GitHub
 - Linux
 - VS Code
-- Docker (learning)
-
+- lots more of cybersecurity tools
 ---
 
 ## 📈 Currently Learning
 
 - Reverse Engineering
-- Pwntools
-- Linux Internals
+- forensics
+- Linux
 - Web Security
-- Algorithms & Data Structures
-
+  
 ---
 
 ## 📫 Contact
-
-- 📷 Instagram: `0xevelyn.code`
 - 📧 asyncbyevelyn@gmail.com
