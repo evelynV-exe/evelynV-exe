@@ -58,6 +58,3 @@ I enjoy solving challenging problems, building useful software, and exploring ho
 
 - 📷 Instagram: `0xevelyn.code`
 - 📧 asyncbyevelyn@gmail.com
-
-## Badges
-<script src="https://cyberdefenders.org/p/GhostPacket/badge"></script>
